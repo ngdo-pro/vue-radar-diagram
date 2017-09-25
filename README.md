@@ -1,8 +1,8 @@
 # V-Radar
 
-[![global](https://www.nicolas-gomes.com/assets/images/posts/2017-09-24/vue-radar-screenshot.png)](http://vue-radar.nicolas-gomes.com)
+This is a Vue component, you can create a radar diagramm with it. Find it on [Github](https://github.com/ngdo-pro/vue-radar-diagram) !
 
-This is a Vue component, you can create a radar diagramm with it.
+[![global](https://www.nicolas-gomes.com/assets/images/posts/2017-09-24/vue-radar-screenshot.png)](http://vue-radar.nicolas-gomes.com)
 
 ## How to install it:
 
