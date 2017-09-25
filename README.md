@@ -6,7 +6,7 @@ This is a Vue component, you can create a radar diagramm with it. Find it on [Gi
 
 ## How to install it:
 
-`npm install v-radar`
+`npm install vue-radar`
 
 Import it where you need it and don't forget to add it to your `components` object.
 ## How to use it:

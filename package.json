@@ -1,6 +1,6 @@
 {
   "name": "vue-radar",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "A VueJs component building a radar-diagramm",
   "main": "Radar.vue",
   "scripts": {
