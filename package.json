@@ -1,0 +1,10 @@
+{
+  "name": "vue-radar",
+  "version": "0.1.3",
+  "description": "A VueJs component building a radar-diagramm",
+  "main": "Radar.vue",
+  "scripts": {
+  },
+  "author": "Nicolas Gomes <ngdo27@gmail.com>",
+  "license": "MIT"
+}
