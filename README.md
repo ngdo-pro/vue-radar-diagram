@@ -21,7 +21,7 @@ You need to provide statistics, polycolor, radar and scale data to use the v-rad
 #### template:
 ```html
 <v-radar
-    :stats="statistics"
+    :stats="stats"
     :polycolor="polycolor"
     :radar="radar"
     :scale="scale">
@@ -34,7 +34,7 @@ import Radar from 'vue-radar'
 
 new Vue({
     components: {
-        'radar': Radar
+        'v-radar': Radar
     },
     data: {
         radar: {},                          // empty object is mandatory
